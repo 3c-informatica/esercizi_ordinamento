@@ -1,0 +1,8 @@
+C:\Users\carla.burdisso\Desktop\3C\ES33ORDINAMENTOvettoreInt\ES33ORDINAMENTOvettoreInt\bin\Debug\ES33ORDINAMENTOvettoreInt.exe.config
+C:\Users\carla.burdisso\Desktop\3C\ES33ORDINAMENTOvettoreInt\ES33ORDINAMENTOvettoreInt\bin\Debug\ES33ORDINAMENTOvettoreInt.exe
+C:\Users\carla.burdisso\Desktop\3C\ES33ORDINAMENTOvettoreInt\ES33ORDINAMENTOvettoreInt\bin\Debug\ES33ORDINAMENTOvettoreInt.pdb
+C:\Users\carla.burdisso\Desktop\3C\ES33ORDINAMENTOvettoreInt\ES33ORDINAMENTOvettoreInt\obj\Debug\ES33ORDINAMENTOvettoreInt.csproj.AssemblyReference.cache
+C:\Users\carla.burdisso\Desktop\3C\ES33ORDINAMENTOvettoreInt\ES33ORDINAMENTOvettoreInt\obj\Debug\ES33ORDINAMENTOvettoreInt.csproj.CoreCompileInputs.cache
+C:\Users\carla.burdisso\Desktop\3C\ES33ORDINAMENTOvettoreInt\ES33ORDINAMENTOvettoreInt\obj\Debug\ES33ORDINAMENTOvettoreInt.exe
+C:\Users\carla.burdisso\Desktop\3C\ES33ORDINAMENTOvettoreInt\ES33ORDINAMENTOvettoreInt\obj\Debug\ES33ORDINAMENTOvettoreInt.pdb
+C:\Users\carla.burdisso\Desktop\3C\ES33ORDINAMENTOvettoreInt\ES33ORDINAMENTOvettoreInt\obj\Debug\ES33ORDINAMENTOvettoreInt.exe.config

@@ -1,0 +1,8 @@
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAMENTOstringhe\ES34ORDINAMENTOstringhe\obj\Debug\ES34ORDINAMENTOstringhe.csproj.AssemblyReference.cache
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAMENTOstringhe\ES34ORDINAMENTOstringhe\obj\Debug\ES34ORDINAMENTOstringhe.csproj.CoreCompileInputs.cache
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAMENTOstringhe\ES34ORDINAMENTOstringhe\bin\Debug\ES34ORDINAMENTOstringhe.exe.config
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAMENTOstringhe\ES34ORDINAMENTOstringhe\bin\Debug\ES34ORDINAMENTOstringhe.exe
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAMENTOstringhe\ES34ORDINAMENTOstringhe\bin\Debug\ES34ORDINAMENTOstringhe.pdb
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAMENTOstringhe\ES34ORDINAMENTOstringhe\obj\Debug\ES34ORDINAMENTOstringhe.exe
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAMENTOstringhe\ES34ORDINAMENTOstringhe\obj\Debug\ES34ORDINAMENTOstringhe.pdb
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAMENTOstringhe\ES34ORDINAMENTOstringhe\obj\Debug\ES34ORDINAMENTOstringhe.exe.config

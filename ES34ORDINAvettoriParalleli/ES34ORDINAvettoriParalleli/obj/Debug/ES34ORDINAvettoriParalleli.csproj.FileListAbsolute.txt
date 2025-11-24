@@ -1,0 +1,16 @@
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\bin\Debug\ES34ORDINAvettoriParalleli.exe.config
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\bin\Debug\ES34ORDINAvettoriParalleli.exe
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\bin\Debug\ES34ORDINAvettoriParalleli.pdb
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\obj\Debug\ES34ORDINAvettoriParalleli.csproj.AssemblyReference.cache
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\obj\Debug\ES34ORDINAvettoriParalleli.csproj.CoreCompileInputs.cache
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\obj\Debug\ES34ORDINAvettoriParalleli.exe
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\obj\Debug\ES34ORDINAvettoriParalleli.pdb
+C:\Users\carla.burdisso\Desktop\3C\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\obj\Debug\ES34ORDINAvettoriParalleli.exe.config
+C:\Users\e.andru.3864\Desktop\esercizi_ordinamento\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\obj\Debug\ES34ORDINAvettoriParalleli.csproj.AssemblyReference.cache
+C:\Users\e.andru.3864\Desktop\esercizi_ordinamento\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\obj\Debug\ES34ORDINAvettoriParalleli.csproj.CoreCompileInputs.cache
+C:\Users\e.andru.3864\Desktop\esercizi_ordinamento\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\obj\Debug\ES34ORDINAvettoriParalleli.exe
+C:\Users\e.andru.3864\Desktop\esercizi_ordinamento\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\obj\Debug\ES34ORDINAvettoriParalleli.pdb
+C:\Users\e.andru.3864\Desktop\esercizi_ordinamento\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\bin\Debug\ES34ORDINAvettoriParalleli.exe.config
+C:\Users\e.andru.3864\Desktop\esercizi_ordinamento\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\bin\Debug\ES34ORDINAvettoriParalleli.exe
+C:\Users\e.andru.3864\Desktop\esercizi_ordinamento\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\bin\Debug\ES34ORDINAvettoriParalleli.pdb
+C:\Users\e.andru.3864\Desktop\esercizi_ordinamento\ES34ORDINAvettoriParalleli\ES34ORDINAvettoriParalleli\obj\Debug\ES34ORDINAvettoriParalleli.exe.config
